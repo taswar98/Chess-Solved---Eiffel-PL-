@@ -1,0 +1,2 @@
+play(5)
+move_bishop([1,5])
